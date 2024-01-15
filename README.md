@@ -52,7 +52,7 @@ Di MainActivity ini berisi program java yang memiliki fungsi penghubung dari sem
 
 Ini adalah layout dari halaman awal aplikasi ini. Layout ini terhubung dengan MainActivity.java tadi. Dilayout ini menampilkan semua tombol tombol dari berbagai activity dan program yang sudah dijelaskan diatas. Beginilah tampilan dari layoutnya :
 
-![WhatsApp Image 2024-01-13 at 17 42 33_2be7876e](https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/d25b08b3-171b-4acc-8174-8ab2a7581ca5)
+![WhatsApp Image 2024-01-16 at 01 00 10](https://github.com/danur77/Project-UAS-Mobile/assets/115677839/491ee400-9246-4999-82b4-45107e8ba3a9)
 
 > Iconnya disini sudah Saya usahakan agar sesuai dengan identitas dari activitynya.
 
@@ -79,8 +79,8 @@ Disini saya tidak mengubah apapun isi dari javanya, dengan kata lain saya buat d
 Seperti yang sudah diketahui ini merupakan layout yang terhubung dengan java nya. Saya hanya menambahkan textview untuk menampilkan android:text "hello_world" nya (text sudah ada di string.xml), selain itu saya juga mengubah warna text dan menambahkan background agar terlihat lebih menarik.
 
 - Hasil Run Hello World
+![WhatsApp Image 2024-01-16 at 01 00 11](https://github.com/danur77/Project-UAS-Mobile/assets/115677839/8e6b7c56-8730-4eb4-899f-153c30b84f20)
 
-![WhatsApp Image 2024-01-13 at 17 47 44_4cded5ba](https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/df14391a-26dc-4d55-9609-ce01e8392698)
 
 d. Source Code Activity Count
 
@@ -94,7 +94,10 @@ Ini adalah layout dari activity count, ada beberapa tombol disini seperti set li
 
 - Hasil Run Count
 
-https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/09ba0be8-96a6-4694-a9e2-a1e83e4f04b2
+
+https://github.com/danur77/Project-UAS-Mobile/assets/115677839/d163e715-0259-457a-acf0-284e638211db
+
+
 
 e. Source Code Activity Scroll Movie
 
@@ -108,7 +111,7 @@ Layout inilah yang mempengaruhi dan memberikan alasan kenapa di javanya tidak ad
 
 - Hasil Run Sianida
 
-https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/fd95674c-788f-4931-a18d-0ca977ef728c
+https://github.com/danur77/Project-UAS-Mobile/assets/115677839/9f57f600-aea8-40fa-a700-99b9874c3e3e
 
 f. Source Code Activity TwoActivity
 
@@ -122,7 +125,10 @@ Kedua layout ini merupakan tampilannya, yang pertama berfungsi menampilkan saat 
 
 - Hasil Run TwoActivity
 
-https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/7c96daf0-cc86-4570-950c-b9f6353c9be2
+
+https://github.com/danur77/Project-UAS-Mobile/assets/115677839/01b5d63b-3669-4a8c-a23c-4dbc5e012a43
+
+
 
 g. Source Code Alarm
 
@@ -152,7 +158,11 @@ ini:
   
 - Hasil Run Alarm
 
-https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/98fb01b5-5acc-49cb-8788-60618229ee00
+
+
+https://github.com/danur77/Project-UAS-Mobile/assets/115677839/51058c4d-3931-44be-a97d-ccc443b6be67
+
+
 
 h. Source Code Open Map
 
@@ -168,7 +178,10 @@ h. Source Code Open Map
 
 - Hasil Run Open Map
 
-https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/2c95bd32-409f-4c0c-9d25-94ab2d3a4174
+
+https://github.com/danur77/Project-UAS-Mobile/assets/115677839/c767df7d-9a08-4cf1-973b-cfc79ccee8b3
+
+
 
 i. Source Code Activity Fragment
 
@@ -200,10 +213,18 @@ Ketiga xml ini merupakan layout atau tampilan dari masing-masing fragment, didal
 
 - Hasil Run Fragment
 
-https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/2b053015-00cd-4568-819b-02346b3d550c
+
+https://github.com/danur77/Project-UAS-Mobile/assets/115677839/8680e029-747e-424b-886e-3467a69ed811
+
+
+
 
 # Hasil Akhir dari semua Activity
 
-https://github.com/nadyakhorun/ProjectUASMobile/assets/115801823/19afb2b3-189c-46d2-87f4-f4a1f3569bd6
+
+
+https://github.com/danur77/Project-UAS-Mobile/assets/115677839/447f8d1c-2818-4390-8247-12f0183b3e9a
+
+
 
 # Sekian Terima Kasih
